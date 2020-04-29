@@ -3,6 +3,6 @@
 int main() {
 
 	printf("hello world\n");
-	printf("not hello"):
+	printf("I'm not hello"):
 	return 0;
 }
